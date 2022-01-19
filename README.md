@@ -55,7 +55,7 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
+$ git clone https://github.com/Anu00123/Amalser
 $ cd Amalser
 $ npm i
 $ node Amalser.js
