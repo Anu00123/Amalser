@@ -6,7 +6,7 @@
   "scripts": {
     "start": "supervisor -s bot.js"
   },
-  "repository": "https://github.com/Anu00123/Amalser"
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
   },
